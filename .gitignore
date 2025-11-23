@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+logs/
+geoip/*.mmdb
+honeypot_host_key
+honeypot_host_key.pub
+.env
