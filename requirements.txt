@@ -1,0 +1,3 @@
+paramiko
+geoip2
+requests
