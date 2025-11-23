@@ -1,8 +1,8 @@
-# Advanced SSH Honeypot 🎣
+# Advanced SSH Honeypot 
 
 A Python-based SSH honeypot that simulates a realistic Linux environment to capture attacker behaviour such as credentials, commands, and geolocation data. Includes Docker support, a log analysis tool, and optional Discord alerting.
 
-## ✨ Features
+##  Features
 - Fake interactive SSH shell  
 - Logs usernames, passwords, and commands  
 - GeoIP enrichment (optional)  
@@ -10,7 +10,7 @@ A Python-based SSH honeypot that simulates a realistic Linux environment to capt
 - Docker container for easy deployment  
 - Log analysis tool (`analyse-logs.py`)
 
-## 🛠 Installation
+##  Installation
 
 Install dependencies:
 
